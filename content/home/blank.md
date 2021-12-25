@@ -6,10 +6,10 @@ spacing:
     - 10px
     - "0"
 widget: blank
-widget_id: top
+widget_id: top_banner
 headless: true
 weight: 10
-title:
+title: null
 active: true
 design:
   columns: "1"
