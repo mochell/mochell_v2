@@ -1,9 +1,9 @@
 ---
 spacing:
   padding:
-    - 20px
+    - 400px
     - "0"
-    - 20px
+    - 200px
     - "0"
 widget: blank
 widget_id: top
@@ -26,4 +26,4 @@ design:
 </p>
 </p>
 
-##Physical Oceanography
+<h1>Physical Oceanography</h1>
