@@ -40,4 +40,4 @@ design:
 <br>
 <br>
 <br>
-<h1>Interface Processes</h1>
+<h1>Dynamic Interfaces</h1>
