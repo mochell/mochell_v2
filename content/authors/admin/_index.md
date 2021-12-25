@@ -1,5 +1,5 @@
 ---
-role: Postdoctoral Scholar at Brown University
+role: Postdoctoral Scholar at IBES
 avatar_filename: mhell_me2017.jpg
 bio: I am a Scientist
 interests: []
@@ -7,9 +7,13 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+    display:
+      header: false
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/MHell
+    display:
+      header: true
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
