@@ -9,10 +9,10 @@ widget: blank
 widget_id: top
 headless: true
 weight: 10
-title: Physical Oceanography
+title:
 active: true
 design:
-  columns: "2"
+  columns: "1"
   background:
     image: aa16_mhell_5_20161104_0074-2.jpg
     image_darken: 0
@@ -25,5 +25,14 @@ design:
 </p>
 </p>
 </p>
-
+t</p>
+t</p>
+t</p>
+t</p>
+t</p>
+t</p>
+t</p>
+t</p>
+t</p>
+t</p>
 <h1>Physical Oceanography</h1>
