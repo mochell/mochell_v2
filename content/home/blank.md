@@ -1,6 +1,6 @@
 ---
-widget: top
-widget_id: blank
+widget: blank
+widget_id: top
 headless: true
 weight: 10
 active: true
