@@ -9,7 +9,7 @@ widget: blank
 widget_id: start
 headless: true
 weight: 10
-title: another title
+title: ""
 active: true
 design:
   columns: "1"
