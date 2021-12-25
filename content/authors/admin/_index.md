@@ -2,10 +2,7 @@
 role: Postdoctoral Scholar at Brown University
 avatar_filename: mhell_me2017.jpg
 bio: I am a Scientist
-interests:
-  - air-seafluxes
-  - surfacewaves
-  - seaice
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -23,23 +20,23 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Brown University
+    url: https://www.brown.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Physical Oceanography
+      institution: Scripps Institution of Oceanography/UCSD
+      year: 2020
+    - course: M.Sc. in Atmosphere and Climate Sciences
+      institution: Swiss Federal Institute of Technology in Zurich
+      year: 2015
+    - course: BSc in Physics of the Earth System
+      institution: GEOMAR - University of Kiel
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 superuser: true
 highlight_name: true
 title: Momme Hell
-email: ""
+email: mhell@brown.edu
 ---
 I am currently a PostDoc at the Institute at Brown for Environment and Society with [Chris Horvat](http://www.chrv.at) and [Baylor Fox-Kemper](http://www.geo.brown.edu/research/Fox-Kemper/). I graduated from [Scripps Institution of Oceanography](https://scripps.ucsd.edu) (SIO) and ETH Zuerich.
 
