@@ -1,6 +1,6 @@
 ---
 role: Postdoctoral Scholar at IBES
-avatar_filename: ""
+avatar_filename: avatar.jpg
 bio: I am a Scientist
 interests: []
 social:
