@@ -1,13 +1,13 @@
 ---
 spacing:
   padding:
-    - "0"
+    - "-300px"
     - "0"
     - "-300px"
     - "0"
 widget: blank
 widget_id: top_banner
-headless: False
+headless: true
 weight: 10
 title: null
 active: true
