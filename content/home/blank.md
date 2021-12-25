@@ -5,11 +5,19 @@ headless: true
 weight: 10
 title: Physical Oceanography
 active: true
+
 design:
   columns: "1"
   background:
-    text_color_light: false
-    image_darken: 0
     image: hb_bg_130223_1.jpg
+    image_darken: 0
+    image_parallax: true
+    image_position: center
+    image_size: cover
+    text_color_light: false
 ---
+<par>
+<par>
+<par>
+<par>
 # Physical Oceanography
