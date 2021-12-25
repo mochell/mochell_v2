@@ -1,6 +1,6 @@
 ---
 role: Postdoctoral Scholar at IBES
-avatar_filename: mhell_me2017.jpg
+avatar_filename: ""
 bio: I am a Scientist
 interests: []
 social:
