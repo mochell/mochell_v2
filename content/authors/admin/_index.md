@@ -14,8 +14,8 @@ social:
     link: https://twitter.com/MHell
     display:
       header: true
-  - icon: google
-    icon_pack: fab
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=Mn5_Tn8AAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
