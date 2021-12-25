@@ -1,4 +1,10 @@
 ---
+spacing:
+  padding:
+    - 20px
+    - "0"
+    - 20px
+    - "0"
 widget: blank
 widget_id: top
 headless: true
@@ -8,19 +14,16 @@ active: true
 design:
   columns: "2"
   background:
-    image: hb_bg_130223_1.jpg
+    image: aa16_mhell_5_20161104_0074-2.jpg
     image_darken: 0
     image_parallax: true
     image_position: center
     image_size: cover
     text_color_light: true
-spacing:
-    padding: ["20px", "0", "20px", "0"]
 ---
-# </p>
-
-# </p>
+</p>
+</p>
 </p>
 </p>
 
-Physical Oceanography
+##Physical Oceanography
