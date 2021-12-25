@@ -38,7 +38,7 @@ education:
       year: 2008
 superuser: true
 highlight_name: true
-title: Momme Hell
+title: admin
 email: ""
 ---
 
