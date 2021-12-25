@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Momme C. Hell # Website name
+title: Momme Hell # Website name
 subtitle: Hugo is Absurdly Fast!
 baseurl: 'https://example.com/' # Website URL
 copyright: '© {year} M. Hell' # Footer text, e.g. '© {year} Me'
