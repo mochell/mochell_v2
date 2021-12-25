@@ -3,7 +3,7 @@ widget: blank
 widget_id: top
 headless: true
 weight: 10
-title: Landing Picture
+title: Physical Oceanography
 active: true
 design:
   columns: "2"
