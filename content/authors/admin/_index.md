@@ -14,15 +14,12 @@ social:
     link: https://twitter.com/MHell
     display:
       header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google
+    icon_pack: fab
+    link: https://scholar.google.com/citations?user=Mn5_Tn8AAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/mochell/
 organizations:
   - name: Brown University
     url: https://www.brown.edu/
