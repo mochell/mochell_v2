@@ -1,13 +1,12 @@
 ---
 title: "Moisture and the Persistence of Annular Modes"
 date: 2021-12-01
-publishDate: 2022-01-07T22:00:55.309591Z
+publishDate: 2022-01-07T22:08:27.428548Z
 authors: ["Nicholas J. Lutsko", "Momme C. Hell"]
 publication_types: ["2"]
-abstract: "Abstract Annular modes are the leading mode of variability in extratropical atmospheres, and a key source of predictability at midlatitudes. Previous studies of annular modes have primarily used dry atmospheric models, so that moisture’s role in annular mode dynamics is still unclear. In this study, a moist two-layer quasigeostrophic channel model is used to study the effects of moisture on annular mode persistence. Using a channel model allows moisture’s direct effects to be studied, rather than changes in persistence due to geometric effects associated with shifts in jet latitude on the sphere. Simulations are performed in which the strength of latent heat release is varied to investigate how annular mode persistence responds as precipitation becomes a leading term in the thermodynamic budget. At short lags (textless20 model days, ≈4 Earth days), moisture increases annular mode persistence, reflecting weaker eddy activity that is less effective at disrupting zonal-mean wind anomalies. Comparisons to dry simulations with weaker mean flows demonstrate that moisture is particularly effective at damping high-frequency eddies, further enhancing short-lag persistence. At long lags (textgreater20 model days), moisture weakly increases persistence, though it decreases the amplitudes of low-frequency annular mode anomalies. In the most realistic simulation, the greater short-lag persistence increases the e-folding time of the zonal index by 21 model days (≈4 Earth days). Moisture also causes a transition to propagating variability, though this does not seem to affect the leading mode’s persistence."
+abstract: ""
 featured: false
 publication: "*Journal of the Atmospheric Sciences*"
-url_pdf: "https://journals.ametsoc.org/view/journals/atsc/78/12/JAS-D-21-0055.1.xml"
 doi: "10.1175/JAS-D-21-0055.1"
 ---
 
