@@ -1,0 +1,13 @@
+---
+title: "Identifying Ocean Swell Generation Events from Ross Ice Shelf Seismic Data"
+date: 2019-10-01
+publishDate: 2022-01-07T22:00:55.307175Z
+authors: ["Momme C. Hell", "Bruce D. Cornuelle", "Sarah T. Gille", "Arthur J. Miller", "Peter D. Bromirski"]
+publication_types: ["2"]
+abstract: "Strong surface winds under extratropical cyclones exert intense surface stresses on the ocean that lead to upper-ocean mixing, intensified heat fluxes, and the generation of waves, that, over time, lead to swell waves (longer than 10-s period) that travel long distances. Because low-frequency swell propagates faster than high-frequency swell, the frequency dependence of swell arrival times at a measurement site can be used to infer the distance and time that the wave has traveled from its generation site. This study presents a methodology that employs spectrograms of ocean swell from point observations on the Ross Ice Shelf (RIS) to verify the position of high wind speed areas over the Southern Ocean, and therefore of extratropical cyclones. The focus here is on the implementation and robustness of the methodology in order to lay the groundwork for future broad application to verify Southern Ocean storm positions from atmospheric reanalysis data. The method developed here combines linear swell dispersion with a parametric wave model to construct a time- and frequency-dependent model of the dispersed swell arrivals in spectrograms of seismic observations on the RIS. A two-step optimization procedure (deep learning) of gradient descent and Monte Carlo sampling allows detailed estimates of the parameter distributions, with robust estimates of swell origins. Median uncertainties of swell source locations are 110 km in radial distance and 2 h in time. The uncertainties are derived from RIS observations and the model, rather than an assumed distribution. This method is an example of supervised machine learning informed by physical first principles in order to facilitate parameter interpretation in the physical domain."
+featured: false
+publication: "*Journal of Atmospheric and Oceanic Technology*"
+url_pdf: "https://journals.ametsoc.org/doi/abs/10.1175/JTECH-D-19-0093.1"
+doi: "10.1175/JTECH-D-19-0093.1"
+---
+
