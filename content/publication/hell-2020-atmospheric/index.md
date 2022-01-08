@@ -1,8 +1,8 @@
 ---
 title: "Atmospheric Circulation Response to Short-Term Arctic Warming in an Idealized Model"
 date: 2020-02-01
-publishDate: 2022-01-07T22:35:17.334915Z
-authors: ["Momme C. Hell", "Tapio Schneider", "Camille Li"]
+publishDate: 2022-01-07T22:51:28.217831Z
+authors: [" admin", "Tapio Schneider", "Camille Li"]
 publication_types: ["2"]
 abstract: ""
 featured: false

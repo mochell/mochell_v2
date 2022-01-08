@@ -1,8 +1,8 @@
 ---
 title: "Atmospheric Zonal Flows and Blocks from the Perspective of Rossby-beta Hydraulics"
 date: in preparation-01-01
-publishDate: 2022-01-07T22:35:17.335966Z
-authors: ["Momme C. Hell", "Laurence Armi"]
+publishDate: 2022-01-07T22:51:28.218868Z
+authors: [" admin", "Laurence Armi"]
 publication_types: ["2"]
 abstract: ""
 featured: false

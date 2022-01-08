@@ -1,8 +1,8 @@
 ---
 title: "Investigation of the Atmospheric Mechanisms Related to the Autumn Sea Ice and Winter Circulation Link in the Northern Hemisphere"
 date: 2015-05-01
-publishDate: 2022-01-07T22:35:17.336599Z
-authors: ["Martin P. King", "Momme Hell", "Noel Keenlyside"]
+publishDate: 2022-01-07T22:51:28.219506Z
+authors: ["Martin P. King", " admin", "Noel Keenlyside"]
 publication_types: ["2"]
 abstract: ""
 featured: false

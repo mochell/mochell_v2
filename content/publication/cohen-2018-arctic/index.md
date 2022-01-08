@@ -1,7 +1,7 @@
 ---
 title: "Arctic Change and Possible Influence on Mid-Latitude Climate and Weather"
 date: 2018-03-01
-publishDate: 2022-01-07T22:35:17.332719Z
+publishDate: 2022-01-07T22:51:28.216235Z
 authors: ["J. Cohen", "X. Zhang", "J. Francis", "T. Jung", "R. Kwok", "J. Overland", "T. Ballinger", "R. Blackport", "U.S. Bhatt", "H. Chen", "D. Coumou", "S. Feldstein", "D. Handorf", "M. Hell", "G. Henderson", "M. Ionita", "M. Kretschmer", "F. Laliberte", "S. Lee", "H. Linderholm", "W. Maslowski", "I. Rigor", "C. Routson", "J. Screen", "T. Semmler", "D. Singh", "D. Smith", "J. Stroeve", "P.C. Taylor", "T. Vihma", "M. Wang", "S. Wang", "Y. Wu", "M. Wendisch", "J. Yoon"]
 publication_types: ["2"]
 abstract: ""
