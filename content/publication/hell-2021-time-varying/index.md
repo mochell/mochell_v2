@@ -9,7 +9,7 @@ featured: True
 publication: "*Journal of Climate*"
 doi: "10.1175/JCLI-D-20-0629.1"
 url_video: "https://www.youtube.com/watch?v=qE3398GFsvY"
-
+slides: example
 tags: ['Surface Winds', 'Angular Momentum']
 
 image:
