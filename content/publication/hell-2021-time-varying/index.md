@@ -12,7 +12,7 @@ url_video: "https://www.youtube.com/watch?v=qE3398GFsvY"
 
 tags: ['Surface Winds', 'Angular Momentum']
 
-image: fig09_SAM_both.jpg
+image:
   caption: 'Image credit: [**Unsplash**](fig09_SAM_both.jpg)'
   focal_point: ""
   preview_only: false
