@@ -30,3 +30,4 @@ date: 2021-07-01
 publishDate: 2022-01-07T22:51:28.218Z
 
 ---
+{{< figure src="fig09_SAM_both.jpg" id="wowchemy" >}}.
