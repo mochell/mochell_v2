@@ -22,10 +22,17 @@ tags:
   - Surface Winds
   - Angular Momentum
 
+
+# Featured image
+# To use, place an image named `featured.jpg/png` in your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+# Set `preview_only` to `true` to just use the image for thumbnails.
+
 image:
-  placement: 1
-  caption: "Photo by [Geo](https://github.com/gcushen/)"
-  focal_point: ""
+  placement: 2
+  caption: "Schematic of surface winds in the moving frame of an extratropical cyclone in the SH for (a) positive and (b) negative SAM. In (a) strong westerly winds behind the cold front and along front winds ahead of the cold front (in red) are enhanced during positive SAM phase. In (b) southeasterly winds not associated with the cold front (in blue) are enhanced during negative SAM. Light gray lines show idealized sea level pressure lines, and the orange arrow indicates the average travel direction of the cyclone."
+  focal_point: "Smart"
   preview_only: false
   alt_text: An optional description of the image for screen readers.
 
