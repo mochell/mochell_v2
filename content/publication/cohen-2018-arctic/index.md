@@ -6,7 +6,7 @@ authors: ["J. Cohen", "X. Zhang", "J. Francis", "T. Jung", "R. Kwok", "J. Overla
 publication_types: ["2"]
 abstract: ""
 featured: false
+tags: ["White Paper", "Atmospheric Dynamics"]
 publication: "*US CLIVAR reports*"
 doi: "10.5065/D6TH8KGW"
 ---
-

@@ -7,6 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Journal of Atmospheric and Oceanic Technology*"
+tags: ["surface waves", "extra-tropical Storms", 'optimization']
 doi: "10.1175/JTECH-D-19-0093.1"
 ---
-
