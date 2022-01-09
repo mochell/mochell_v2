@@ -1,6 +1,4 @@
 ---
-{{< figure src="fig09_SAM_both.jpg" id="wowchemy" >}}.
----
 publication_types:
   - "2"
 authors:
@@ -25,11 +23,12 @@ tags:
   - Angular Momentum
 
 image:
-  caption: "Image credit: [**Unsplash**](fig09_SAM_both.jpg)"
+  placement: 1
+  caption: "Photo by [Geo](https://github.com/gcushen/)"
   focal_point: ""
-  preview_only: true
-  filename: fig09_SAM_both.jpg
-date: 2021-07-01
+  preview_only: false
+  alt_text: An optional description of the image for screen readers.
+
 publishDate: 2022-01-07T22:51:28.218Z
 
 ---
