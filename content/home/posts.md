@@ -2,7 +2,7 @@
 widget: pages
 headless: true
 weight: 60
-title: Recent Posts
+title: Blog
 subtitle: null
 content:
   page_type: post

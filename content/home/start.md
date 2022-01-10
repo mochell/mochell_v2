@@ -1,9 +1,9 @@
 ---
 spacing:
   padding:
-    - -300px
+    - 0px
     - "0"
-    - -300px
+    - 0px
     - "0"
 widget: blank
 widget_id: start
@@ -21,7 +21,6 @@ design:
     image_size: cover
     text_color_light: true
 ---
-
 <br>
 <br>
 <br>
