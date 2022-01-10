@@ -39,7 +39,7 @@ highlight_name: true
 title: Momme Hell
 email: mhell@brown.edu
 ---
-I am a PostDoc at the Institute at Brown for Environment and Society with [Chris Horvat](http://www.chrv.at) and [Baylor Fox-Kemper](http://www.geo.brown.edu/research/Fox-Kemper/). I graduated from [Scripps Institution of Oceanography](https://scripps.ucsd.edu) (SIO) and ETH Zuerich.
+I am a PostDoc at the Institute at Brown for Environment and Society with [Chris Horvat](http://www.chrv.at) and [Baylor Fox-Kemper](http://www.geo.brown.edu/research/Fox-Kemper/). I graduated from [Scripps Institution of Oceanography](https://scripps.ucsd.edu) and ETH Zuerich.
 
 I am interested in air-sea exchange and how it links to the large-scale climate variabilty. I study how surface wave generation and how they interact with sea ice. I am for better climate models without losing complexity.
 
@@ -47,4 +47,4 @@ I use paradigms from Geophysical Fluid Dynamics and merge them with data to prob
 
 I have a graphic design and typography background and implement these rules for scientific graphics and visualization in my publications an other visualiations for science journals.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_mhell.pdf" "newtab" >}}CV{{< /staticref >}}.

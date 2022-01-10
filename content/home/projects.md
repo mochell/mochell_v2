@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Research
 subtitle: ''
 
 content:
@@ -27,8 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: surface waves
+    tag: surface waves
+  - name: zonal flows
+    tag: zonal flows
   - name: Other
     tag: Demo
 
