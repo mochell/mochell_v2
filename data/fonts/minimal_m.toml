@@ -6,6 +6,6 @@ google_fonts = "family=Amiri:wght@400;700&family=Roboto+Mono&family=Roboto:wght@
 
 # Font families
 heading_font = "Palatino"
-body_font = "Palatino"
+body_font = "Roboto"
 nav_font = "Palatino"
-mono_font = "Palatino"
+mono_font = "Roboto"
