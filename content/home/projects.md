@@ -23,4 +23,7 @@ design:
   flip_alt_rows: false
   background:
     color: "#608fc4"
+    image: hg_waves1.jpg
+    image_darken: 0.6
+    text_color_light: true
 ---
