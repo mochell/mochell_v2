@@ -22,10 +22,10 @@ design:
   background:
     gradient_start: ""
     gradient_end: ""
-    image: hg_waves1.jpg
+    image: ""
     image_darken: 0.9
     color: "#c2c5c8"
-    text_color_light: true
+    text_color_light: false
 ---
 
 <!-- {{% callout note %}}
