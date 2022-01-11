@@ -14,7 +14,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: hg_cloud_sea_ice1.jpg
+    image: hg_waves1.jpg
     image_darken: 1
     image_parallax: true
     image_position: center
