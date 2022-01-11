@@ -5,7 +5,7 @@ name = "Minimal_m"
 google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
 
 # Font families
-heading_font = "Montserrat"
+heading_font = "Palatino Linotype"
 body_font = "Roboto"
 nav_font = "Book Antiqua"
 mono_font = "Roboto Mono"
