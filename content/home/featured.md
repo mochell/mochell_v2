@@ -1,7 +1,7 @@
 ---
 widget: featured
 widget_id: recent-posts
-weight: 80
+weight: 40
 title: Featured Publications
 subtitle: ""
 active: true
