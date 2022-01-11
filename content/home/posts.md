@@ -24,5 +24,6 @@ design:
     color: rgba(0, 0, 0, 0.5)
     image: hg_waves1.jpg
     text_color_light: true
-    image_darken: 0.5
+    image_darken: 0.8
+  columns: "2"
 ---
