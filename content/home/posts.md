@@ -19,7 +19,8 @@ content:
   order: desc
 widget_id: pages
 design:
-  view: 2
+  columns: "2"
+  view: 3
   background:
     color: rgba(0, 0, 0, 0.5)
     image: hg_waves1.jpg
