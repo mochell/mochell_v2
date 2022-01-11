@@ -19,7 +19,7 @@ headless: true
 design:
   view: 4
   background:
-    gradient_start: "#824e4e"
+    gradient_start: rgba(130, 78, 78, 0.11)
     gradient_end: "#bcb6b6"
 ---
 
