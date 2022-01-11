@@ -4,7 +4,7 @@ widget_id: recent-posts
 weight: 30
 title: Recent Publications
 subtitle: ""
-active: true
+active: false
 content:
   page_type: publication
   count: 3
@@ -23,8 +23,9 @@ design:
     gradient_start: ""
     gradient_end: ""
     image: hg_waves1.jpg
-    image_darken: 0.3
+    image_darken: 0.9
     color: "#c2c5c8"
+    text_color_light: true
 ---
 
 <!-- {{% callout note %}}
