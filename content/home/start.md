@@ -14,7 +14,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: aa16_mhell_5_20161104_0074-2.jpg
+    image: hg_waves1.jpg
     image_darken: 1
     image_parallax: true
     image_position: center
