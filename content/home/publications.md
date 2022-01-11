@@ -21,7 +21,7 @@ design:
   background:
     gradient_start: ""
     gradient_end: ""
-    image: ""
+    image: mhell_AA16_0007.jpg
     image_darken: 0
     color: rgba(36, 219, 13, 0.25)
 ---
