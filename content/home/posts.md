@@ -21,6 +21,8 @@ widget_id: pages
 design:
   view: 2
   background:
-    color: "#b22a2a"
+    color: ""
     gradient_start: "#b2b2b2"
+    image: hg_waves1.jpg
+    gradient_end: "#ffffff"
 ---
