@@ -21,8 +21,9 @@ widget_id: pages
 design:
   view: 2
   background:
-    color: ""
+    color: rgba(0, 0, 0, 0.14)
     gradient_start: "#b2b2b2"
     image: hg_waves1.jpg
     gradient_end: "#ffffff"
+    text_color_light: true
 ---
