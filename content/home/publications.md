@@ -23,7 +23,7 @@ design:
     gradient_end: ""
     image: mhell_AA16_0007.jpg
     image_darken: 0
-    color: rgba(36, 219, 13, 0.25)
+    color: rgba(247, 0, 33, 0.57)
 ---
 
 <!-- {{% callout note %}}
