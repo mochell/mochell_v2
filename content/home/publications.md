@@ -19,9 +19,11 @@ headless: true
 design:
   view: 4
   background:
-    gradient_start: rgba(130, 78, 78, 0.11)
-    gradient_end: "#bcb6b6"
-    image: aa16_mhell_5_20161104_0074-2.jpg
+    gradient_start: ""
+    gradient_end: ""
+    image: ""
+    image_darken: 0
+    color: rgba(36, 219, 13, 0.25)
 ---
 
 <!-- {{% callout note %}}
