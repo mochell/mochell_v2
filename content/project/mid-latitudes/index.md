@@ -13,7 +13,7 @@ tags:
 image:
   caption: ""
   focal_point: Smart
-  filename: featured.png
+  filename: featured.jpg
   preview_only: false
 #
 ---
