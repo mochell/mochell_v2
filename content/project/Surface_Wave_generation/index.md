@@ -1,19 +1,17 @@
 ---
 slides: ""
-url_pdf: ""
 summary: ""
 url_video: ""
 date: 2022-03-18T02:25:47.483Z
 external_link: ""
 url_slides: ""
-title: Surface Wave Generation and Air-Sea exchange
+title: Surface wave generation and air-sea exchange
 tags:
   - surface waves
-links: []
 image:
   caption: ""
   focal_point: Smart
-  filename: storm_waves_v2_100.jpg
+  filename: featured.jpg
   preview_only: false
 #
 ---
