@@ -1,33 +1,19 @@
 ---
-title: Surface Wave Generation and Propagation
-summary: An example of using the in-built project page.
-tags:
-- surface waves
-date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: example
+url_pdf: ""
+summary: ""
+url_video: ""
+date: 2016-04-27T00:00:00Z
+external_link: ""
+url_slides: ""
+title: Surface Wave Generation and Air-Sea exchange
+tags:
+  - surface waves
+links: []
+image:
+  caption: ""
+  focal_point: Smart
+  filename: featured.jpg
+url_code: ""
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Surface gravity waves are an important part of air-sea coupling. They alter momentum transfer across the air-sea boundary mediate stress that drives the ocean circulation and fluxes of CO2 and heat between atmosphere and ocean. In this context, I focus on how synoptic-scale variability influences Air-Sea exchange by making waves and inducing upper ocean turbulence. I combine simple models of surface wave generation with optimization methods to apply them to ensembles of wave observations.
