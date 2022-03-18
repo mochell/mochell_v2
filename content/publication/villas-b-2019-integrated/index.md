@@ -6,7 +6,7 @@ authors: ["Ana B. Villas Bôas", "Fabrice Ardhuin", "Alex Ayet", "Mark A. Bouras
 publication_types: ["2"]
 abstract: ""
 featured: false
+tags: ["Surface Winds", "Surface Waves"]
 publication: "*Frontiers in Marine Science*"
 doi: "10.3389/fmars.2019.00425"
 ---
-

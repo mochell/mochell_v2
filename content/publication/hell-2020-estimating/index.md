@@ -6,7 +6,7 @@ authors: [" admin", "Sarah T. Gille", "Bruce D. Cornuelle", "Arthur J. Miller", 
 publication_types: ["2"]
 abstract: ""
 featured: false
+tags: ["Surface Winds", "Surface Waves", "Extra-Tropical Storms"]
 publication: "*Journal of Geophysical Research: Oceans*"
 doi: "10.1029/2019JC015898"
 ---
-

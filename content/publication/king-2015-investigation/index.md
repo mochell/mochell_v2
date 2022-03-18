@@ -6,7 +6,7 @@ authors: ["Martin P. King", " admin", "Noel Keenlyside"]
 publication_types: ["2"]
 abstract: ""
 featured: false
+tags: ["Surface Winds","Atmospheric Dynamics", "Sea ICe"]
 publication: "*Climate Dynamics*"
 doi: "10.1007/s00382-015-2639-5"
 ---
-

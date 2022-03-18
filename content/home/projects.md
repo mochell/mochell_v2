@@ -10,12 +10,10 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: surface waves
-      tag: surface waves
-    - name: zonal flows
-      tag: zonal flows
-    - name: Other
-      tag: Demo
+    - name: Surface Waves
+      tag: Surface Waves
+    - name: Atmospheric Dynamics
+      tag: [ "Atmospheric Dynamics", "Zonal Flows"]
 widget_id: recent-posts
 design:
   columns: "2"

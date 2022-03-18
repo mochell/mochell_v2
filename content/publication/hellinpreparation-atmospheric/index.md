@@ -6,7 +6,7 @@ authors: [" admin", "Laurence Armi"]
 publication_types: ["3"]
 abstract: ""
 draft: true
-tags: ["atmospheric dynamics", "zonal flows"]
+tags: ["Atmospheric Dynamics", "Zonal Flows"]
 featured: false
 publication: "*Journal of Atmospheric Science*"
 ---

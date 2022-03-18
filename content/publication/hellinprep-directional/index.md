@@ -10,8 +10,8 @@ abstract: ""
 draft: true
 featured: false
 tags:
-  - sea ice
-  - optimization
+  - Sea Ice
+  - Optimization
   - ICESat-2
 date: in prep-01-01
 publishDate: 2022-01-07T22:51:28.219Z

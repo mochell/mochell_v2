@@ -7,8 +7,9 @@ external_link: ""
 url_slides: ""
 title: Mid-latitude jets and extreme weather
 tags:
-  - mid-latitudes
-  - extreme weather
+  - Mid-Latitudes
+  - Extreme Weather
+  - Atmospheric Dynamics
 image:
   caption: ""
   focal_point: Smart

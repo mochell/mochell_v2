@@ -6,7 +6,7 @@ authors: ["William J. Merryfield", "Johanna Baehr", "Lauriane Batté", "Emily J.
 publication_types: ["2"]
 abstract: ""
 featured: false
+tags: ["White Paper", "Seasonal Prediction"]
 publication: "*Bulletin of the American Meteorological Society*"
 doi: "10.1175/BAMS-D-19-0037.1"
 ---
-

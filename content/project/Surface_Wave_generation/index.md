@@ -7,7 +7,7 @@ external_link: ""
 url_slides: ""
 title: Surface wave generation and air-sea exchange
 tags:
-  - surface waves
+  - Surface Waves
 image:
   caption: ""
   focal_point: Smart

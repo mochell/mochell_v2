@@ -7,8 +7,8 @@ external_link: ""
 url_slides: ""
 title: Surface waves and sea ice
 tags:
-  - sea ice
-  - surface waves
+  - Sea Ice
+  - Surface Waves
 image:
   caption: ""
   focal_point: Smart
