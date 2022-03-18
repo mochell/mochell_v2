@@ -4,9 +4,10 @@ subtitle: How waves impact Sea Ice
 date: 2022-03-18T02:29:23.740Z
 draft: false
 featured: false
-authors:
-  - Momme
-tags: []
+authors: ""
+tags:
+  - sea ice
+  - surface waves
 external_link: " "
 links: []
 image:
