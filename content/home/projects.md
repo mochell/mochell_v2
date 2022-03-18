@@ -17,7 +17,7 @@ content:
 widget_id: recent-posts
 design:
   columns: "2"
-  view: 4
+  view: 3
   flip_alt_rows: false
   background:
     color: "#608fc4"
