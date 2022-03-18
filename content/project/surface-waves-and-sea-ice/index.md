@@ -6,8 +6,7 @@ draft: false
 featured: false
 authors:
   - Momme
-tags:
-  - SeaICe
+tags: []
 external_link: " "
 image:
   filename: dr03_swell_storm_0084_synoptic_overview-copy.png
