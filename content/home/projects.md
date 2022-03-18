@@ -13,7 +13,7 @@ content:
     - name: Surface Waves
       tag: Surface Waves
     - name: Atmospheric Dynamics
-      tag: [ "Atmospheric Dynamics", "Zonal Flows"]
+      tag: Atmospheric Dynamics, Zonal Flows
 widget_id: recent-posts
 design:
   columns: "2"
