@@ -1,15 +1,13 @@
 ---
-title: Surface Waves and Sea Ice
-subtitle: How waves impact Sea Ice
+title: Surface waves and sea ice
+subtitle: How waves impact sea ice
 date: 2022-03-18T02:29:23.740Z
-draft: false
 featured: false
 authors: ""
 tags:
   - sea ice
   - surface waves
 external_link: " "
-links: []
 image:
   focal_point: Smart
   filename: featured.png
