@@ -5,10 +5,9 @@ url_video: ""
 date: 2022-03-18T02:25:47.483Z
 external_link: ""
 url_slides: ""
-title: Mid-latitude jets and extreme weather
+title: Surface wave generation and air-sea exchange
 tags:
-  - zonal flows
-  - mid-latitudes
+  - surface waves
 image:
   caption: ""
   focal_point: Smart
@@ -16,4 +15,4 @@ image:
   preview_only: false
 #
 ---
-The mid-latitude large-scale circulation drives weather patterns. However, it is not well understood how global warming phenomena, like Arctic Amplification, Stratospheric Vortex breakdowns, or changes in atmospheric moisture impact the mid-latitude zonal flow and subsequent extremes. In my work, I use idealized circulation models and QGPV-theory to develop an understanding of future extreme weather.
+Surface gravity waves are an important part of air-sea coupling. They alter momentum transfer across the air-sea boundary mediate stress that drives the ocean circulation and fluxes of CO2 and heat between atmosphere and ocean. In this context, I focus on how synoptic-scale variability influences Air-Sea exchange by making waves and inducing upper ocean turbulence. I combine simple models of surface wave generation with optimization methods to apply them to ensembles of wave observations.
