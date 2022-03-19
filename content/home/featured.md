@@ -4,7 +4,7 @@ widget_id: recent-posts
 weight: 40
 title: Featured Publications
 subtitle: ""
-active: true
+active: false
 content:
   page_type: publication
   count: 0
