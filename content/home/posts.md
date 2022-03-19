@@ -4,6 +4,7 @@ headless: true
 weight: 60
 title: Blog
 subtitle: null
+active: false
 content:
   page_type: post
   count: 5
